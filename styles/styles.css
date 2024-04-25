@@ -57,13 +57,13 @@ form {
 }
 
 input, button {
-  padding: 1.6rem;
+  padding: 1.3rem;
   border: none;
   outline: none;
 }
 
 input {
-  width: 4.3rem;
+  width: 6rem;
   height: 5.3rem;
   background-color: #DCE2E9;
 
